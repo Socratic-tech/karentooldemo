@@ -1,0 +1,4 @@
+/* App-level styles - minimal since we use Tailwind */
+.authenticated-layout {
+  padding-top: 4rem;
+}
